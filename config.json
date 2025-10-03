@@ -1,0 +1,14 @@
+[
+  {
+    "game_name": "EVE Online",
+    "game_type": ["RPG", "MMO"],
+    "source_type": "xlsx",
+    "path": "eve.xlsx"
+  },
+  {
+    "game_name": "Genshin",
+    "game_type": ["MMO", "RPG", "二次元"],
+    "source_type": "json",
+    "path": "genshin.json"
+  }
+]
